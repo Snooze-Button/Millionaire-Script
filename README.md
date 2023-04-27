@@ -1,6 +1,6 @@
 # Double It Until Millionaire 💰
 
-This fun little Python script was inspired by the social media challenge: [Do you want (insert amount of money) or double it and give it to the next person ?](https://www.youtube.com/shorts/e4V4juaD-2I)" 🤑
+This fun little Python script was inspired by the social media challenge: [Do you want (insert amount of money) or double it and give it to the next person ?](https://www.youtube.com/shorts/e4V4juaD-2I) 🤑
  
 
 With the power of Python, we can quickly find out how many times we need to double our initial amount to reach the millionaire status! 💸
