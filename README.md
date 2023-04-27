@@ -11,7 +11,6 @@ With the power of Python, we can quickly find out how many times we need to doub
 2. Replace `YOUR_API_KEY` in the following line in the `millionarie.py` script with your actual API key:
 
 python
-
 `url = f"https://api.exchangeratesapi.io/latest?base={from_currency}&access_key=YOUR_API_KEY"`
 
 ## How it works
@@ -30,5 +29,5 @@ bash
 
 Simply run the `double_until_million.py` script and follow the prompts!
 
-```bash
-python double_until_million.py
+bash
+`python double_until_million.py`
