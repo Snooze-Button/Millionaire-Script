@@ -1,6 +1,7 @@
 # Double It Until Millionaire 💰
 
-This fun little Python script was inspired by the social media challenge: "Would you like this (insert amount of money) or DOUBLE IT UP AND GIVE IT TO THE NEXT PERSON?" 🤑
+This fun little Python script was inspired by the social media challenge: "Do you want (insert amount of money) or double it and give it to the next person ?" 🤑
+E.g. https://www.youtube.com/shorts/e4V4juaD-2I
 
 With the power of Python, we can quickly find out how many times we need to double our initial amount to reach the millionaire status! 💸
 
@@ -9,8 +10,9 @@ With the power of Python, we can quickly find out how many times we need to doub
 1. Sign up for a free API key at [apilayer.com/marketplace/exchangerates_io](https://apilayer.com/marketplace/exchangerates_io/)
 2. Replace `YOUR_API_KEY` in the following line in the `millionarie.py` script with your actual API key:
 
-```python
+``python
 url = f"https://api.exchangeratesapi.io/latest?base={from_currency}&access_key=YOUR_API_KEY"
+```
 
 ## How it works
 
