@@ -5,7 +5,7 @@ This fun little Python script was inspired by the social media challenge: [Do yo
 
 With the power of Python, we can quickly find out how many times we need to double our initial amount to reach the millionaire status! 💸
 
-## Optional Setup for Exchange Rates
+## Optional: Setup for Exchange Rates
 
 1. Sign up for a free API key at [apilayer.com/marketplace/exchangerates_io](https://apilayer.com/marketplace/exchangerates_io/)
 2. Replace `YOUR_API_KEY` in the following line in the `millionarie.py` script with your actual API key:
